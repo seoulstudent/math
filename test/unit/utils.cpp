@@ -1,4 +1,4 @@
-// Copyright (c) 2023 seoulstudent, All Rights Reserved.
+// Copyright (c) 2024 seoulstudent, All Rights Reserved.
 // Authors: seoulstudent
 
 #include "math/utils.hpp"

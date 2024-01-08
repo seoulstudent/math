@@ -119,11 +119,13 @@ target_include_directories(${PROJECT_NAME} PUBLIC
 
 # ! Add libraries here
 # )
+
 # add_dependencies(${PROJECT_NAME}
 # include(cmake/create_documents.cmake)
 
 # ! Add dependencies here
 # )
+
 target_compile_options(${PROJECT_NAME} PRIVATE
 ${CPP_COMFILE_FLAGS}
 )
