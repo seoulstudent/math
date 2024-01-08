@@ -22,9 +22,9 @@ function(build_thirdparty COMFIGURATION_PACKAGE_PATH)
       WORKING_DIRECTORY ${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAME})
     message(STATUS "Finish install for ${PROJECT_NAME}.\n")
   endif()
+ 
 
   find_package(${PROJECT_NAME} REQUIRED HINTS ${${PROJECT_NAME}_CMAKE_PATH})
-  
   message(STATUS "Finish installation verification for ${PROJECT_NAME}.\n")
 endfunction()
 

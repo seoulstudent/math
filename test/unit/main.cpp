@@ -1,5 +1,5 @@
-// Copyright (c) 2023 HolyGround, All Rights Reserved.
-// Authors: EunSung Yang
+// Copyright (c) 2024 seoulstudent, All Rights Reserved.
+// Authors: seoulstudent
 
 #include <cstdint>
 
